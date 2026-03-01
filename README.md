@@ -2,6 +2,9 @@
 
 This is a simple calculator app built using Java in Android Studio.
 
+#NOTE:-
+- only 2 variable at a time
+
 ## Features
 - Addition
 - Subtraction
@@ -31,4 +34,5 @@ A simple Android calculator built with Java.
 1. Clone repository
 2. Open in Android Studio
 3. Click Run
+
 
